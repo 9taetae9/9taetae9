@@ -10,7 +10,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=9taetae9&count_private=true&show_icons=true&theme=neon" alt="9taetae9's GitHub stats">
     </td>
     <td valign="bottom">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9taetae9&exclude_repo=opencv&langs_count=5" alt="Top Langs">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9taetae9&langs_count=5" alt="Top Langs">
     </td>
   </tr>
 </table>
