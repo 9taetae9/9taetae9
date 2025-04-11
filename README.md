@@ -1,5 +1,5 @@
 <!-- Header Image -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&color0=ff2079&color1=21d4fd&text=Welcome%20to%20TaeHyoun's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=35&fontAlign=50&height=200)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&color0=ff2079&color1=21d4fd&text=Welcome%20to%20TaeHyoun's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=35&fontAlign=50&height=200&width=100%)
 
 <div align="center">
   
