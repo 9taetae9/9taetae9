@@ -21,14 +21,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9taetae9&layout=compact&theme=radical&bg_color=0D1117&title_color=ff2079&text_color=FFFFFF&border_color=21d4fd" alt="Top Langs" height="170">
 </div>
 
-<!-- GitHub Activity Graph -->
-<div align="center">
-  
-  ## 📈 Contribution Graph
-  
-  [![9taetae9's Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=9taetae9&bg_color=0D1117&color=21d4fd&line=ff2079&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
-
 <!-- Skills -->
 <div align="center">
   
@@ -45,6 +37,16 @@
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 </div>
+
+<!-- GitHub Activity Graph -->
+<div align="center">
+  
+  ## 📈 Contribution Graph
+  
+  [![9taetae9's Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=9taetae9&bg_color=0D1117&color=21d4fd&line=ff2079&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
+
+
 
 <!-- Recent Projects 
 <div align="center">
