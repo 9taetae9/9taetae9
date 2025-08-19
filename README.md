@@ -46,16 +46,6 @@
 
 </div>
 
-<!-- GitHub Activity Graph -->
-<div align="center">
-  
-  ## 📈 Contribution Graph
-  
-  [![9taetae9's Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=9taetae9&bg_color=0D1117&color=21d4fd&line=ff2079&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
-
-
-
 <!-- Recent Projects 
 <div align="center">
   
