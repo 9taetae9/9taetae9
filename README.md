@@ -67,13 +67,13 @@
 <!-- GitHub Profile Trophy -->
 <div align="center">
   
-  ## 🏆 GitHub Trophies
+<!--   ## 🏆 GitHub Trophies
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=9taetae9&theme=discord&row=1&column=6&margin-w=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
+<!--   [![trophy](https://github-profile-trophy.vercel.app/?username=9taetae9&theme=discord&row=1&column=6&margin-w=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- </div> -->
 
 <!-- Footer -->
-<div align="center">
+<!-- <div align="center"> -->
   
   ### Thanks for visiting! 👋
   
