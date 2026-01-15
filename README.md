@@ -17,8 +17,12 @@
 </div>
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=9taetae9&show_icons=true&theme=radical" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=9taetae9&layout=compact&theme=radical" height="180" alt="Top Langs" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=9taetae9&layout=compact&theme=radical&hide=Makefile,Assembly,PLpgSQL,Shell,Perl,Ruby" height="180" alt="Top Langs" />
 </div>
+<!-- <div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=9taetae9&show_icons=true&theme=radical" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=9taetae9&layout=compact&theme=radical" height="180" alt="Top Langs" />
+</div> -->
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=9taetae9&count_private=true&show_icons=true&theme=radical&bg_color=0D1117&title_color=ff2079&icon_color=21d4fd&text_color=FFFFFF&border_color=21d4fd" alt="9taetae9's GitHub stats" height="170">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9taetae9&layout=compact&theme=radical&bg_color=0D1117&title_color=ff2079&text_color=FFFFFF&border_color=21d4fd" alt="Top Langs" height="170"> -->
 
